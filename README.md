@@ -1,4 +1,4 @@
-# DigiSanstha v2
+# Multi-Tenant SaaS Application
 
 A modern, multi-tenant SaaS application built with Laravel 12, featuring a modular architecture with role-based access control and dynamic module management.
 
